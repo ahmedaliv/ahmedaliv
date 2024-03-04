@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Ahmed Ali</h1>
-<h3 align="center">A passionate ٍSoftware Engineer interested in Backend Development (Node.js)</h3>
+<h3 align="center">A passionate Software Engineer interested in Backend Development and Web Security </h3>
 
 - I'm currently honing my skills in TypeScript and Node.js 
 - I’m interested in Backend development, Web Security and Bug Hunting 
@@ -7,11 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ahmedaliv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmedaliv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedaliv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedaliv" height="30" width="40" /></a>
-<a href="https://medium.com/@ahmedaliv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedaliv" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gngn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gngn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmedaliv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedaliv" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/gngn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gngn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
