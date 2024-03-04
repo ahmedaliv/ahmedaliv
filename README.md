@@ -1,8 +1,11 @@
 <h1 align="center">Hi I'm Ahmed Ali</h1>
-<h3 align="center">A passionate Software Engineer interested in Backend Development and Web Security </h3>
+<h4  align="center">A passionate Software Engineer interested in Backend Development and Web Security </h4>
 
 - I'm currently honing my skills in TypeScript and Node.js 
-- I’m interested in Backend development, Web Security and Bug Hunting 
+- I’m interested in Backend development, Web Security and Bug Hunting
+- Proficient in problem-solving, with expertise in data structures & algorithms.
+- Curious about Web Security and BlockChain.
+- Always open to learning new things.
 - 📫 How to reach me **ahmedmalii30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
