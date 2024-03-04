@@ -2,7 +2,7 @@
 <h4  align="center">A passionate Software Engineer interested in Backend Development and Web Security </h4>
 
 - I'm currently honing my skills in TypeScript and Node.js 
-- I’m interested in Backend development, Web Security and Bug Hunting
+- I'm intrigued by Backend development, Web Security, and Bug Hunting.
 - Proficient in problem-solving, with expertise in data structures & algorithms.
 - Curious about Web Security and BlockChain.
 - Always open to learning new things.
