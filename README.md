@@ -1,11 +1,10 @@
-<h1 align="center">Hi I'm Ahmed Ali</h1>
-<h4  align="center">A passionate Software Engineer interested in Backend Development and Web Security </h4>
+<h1 align="center">Hi, I'm Ahmed Ali</h1>
+<h4 align="center">Software Engineer | Web Scraping & Backend Development</h4>
 
-- I'm currently honing my skills in TypeScript and Node.js 
-- I'm intrigued by Backend development, Web Security, and Bug Hunting.
-- Proficient in problem-solving, with expertise in data structures & algorithms.
-- Curious about Web Security and BlockChain.
-- Always open to learning new things.
+- 🔍 Web Scraping Specialist at Reworkd AI
+- 🚀 Exploring Backend Development, Web Security, and Bug Hunting
+- 🛠️ Working with TypeScript, Node.js, Python.
+- 🧩 Focused on building scalable web applications and enhancing web security practices
 - 📫 How to reach me **ahmedmalii30@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
