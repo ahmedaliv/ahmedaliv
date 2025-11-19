@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Ali</h1>
 <h4 align="center">Software Engineer | Web Scraping & Backend Development</h4>
 
-- 🔍 Web Scraping Specialist at Reworkd AI
+- 🔍 Python Software Engineer & Web Scraping Specialist at Reworkd AI
 - 🚀 Exploring Backend Development, Web Security, and Bug Hunting
 - 🛠️ Working with TypeScript, Node.js, Python.
 - 🧩 Focused on building scalable web applications and enhancing web security practices
